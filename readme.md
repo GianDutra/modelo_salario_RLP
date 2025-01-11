@@ -2,7 +2,7 @@
 
 ---
 
-<img src="./.github/salary_model.png" alt="modelo_polinomial_salary" title="Modelo de Predição de Salário">
+<img src="./.github/1.png" alt="modelo_polinomial_salary" title="Modelo de Predição de Salário">
 
 ---
 
